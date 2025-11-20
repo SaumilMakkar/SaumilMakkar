@@ -3,7 +3,7 @@
 
 ### My Github Profile  
 <div align="center">
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrG3_jEs2SKJg0EoQi5GVFSna1kFlVp_O82Q&s](https://i.pinimg.com/736x/86/9d/3c/869d3ca0b889f654e9ce042e830b3171.jpg)" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/736x/86/9d/3c/869d3ca0b889f654e9ce042e830b3171.jpg" />
 </div>  
   
 
